@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+p {
+    margin: 10px 0;
+}
+
+button {
+    display: block;
+    margin: 30px auto;
+}
+
+button:first-child {
+    margin-top: 40px;
+}
+
+#row1 {
+    color: blue;
+    font-size: larger;
+}
